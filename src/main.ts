@@ -1,5 +1,5 @@
 
-let uneVariableDeTypeString: number|string = "hello";
+let uneVariableDeTypeString = "hello";
 
 uneVariableDeTypeString= 2;
 console.log(uneVariableDeTypeString);
